@@ -1,6 +1,6 @@
-#' @name MicroWeaR-package
+#' @name Micro2-package
 #' @docType package
-#' @aliases MicroWeaR
+#' @aliases Micro2
 #' @title MicroWeaR is a Package to Examine and Score Microwear Scars
 #' @author Antonio Profico, Flavia Strani, Pasquale Raia, Daniel DeMiguel
 #' @description A tool that provides a summary statistic of the sampled scars for the user. The package includes functions to sample the scars, classify features as pits or scratches and then into consider also their respective subcategories, generate an output table with summary information, and obtain a visual surface-map in where scars are tracked..
