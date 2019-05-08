@@ -6,6 +6,7 @@
 #' @param sounds logical: if FALSE sounds are silences
 #' @param delete.traces numeric vector: which scars needs to be deleted
 #' @param delay numeric: specify seconds after that all devices will be closed
+#' @param delete.traces.int logical: set TRUE to delete traces by using an interactive way
 #' @return big_matrix:  a matrix with stored coordinates
 #' @author Antonio Profico, Flavia Strani, Pasquale Raia, Daniel DeMiguel
 #' @export
